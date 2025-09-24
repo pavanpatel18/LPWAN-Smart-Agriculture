@@ -32,6 +32,7 @@ The design demonstrates how farmers can leverage energy-efficient, long-range ne
 ---
 
 ## Repository Structure
+```
 .
 ├── Agriculture_LPWAN 04_22_2025 v0.6.pkt # Cisco Packet Tracer simulation
 ├── Final Report - Cisco Team 7.docx # Detailed project report
@@ -43,6 +44,7 @@ The design demonstrates how farmers can leverage energy-efficient, long-range ne
 │ ├── Brochure_page_1.png
 │ └── Brochure_page_2.png
 └── README.md # This file
+```
 
 ---
 
@@ -92,3 +94,10 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 - New Jersey Institute of Technology (NJIT)  
 - Cisco Packet Tracer simulation tools  
 - Capstone mentorship and guidance from faculty
+
+---
+
+## Achievements
+- Awarded **3rd Place** in the Spring 2025 YWCC Capstone Showcase at NJIT.  
+- Recognized for outstanding performance, innovation, and practical application of LPWAN in smart agriculture.
+![Capstone Award Certificate](award-capstone.png)
